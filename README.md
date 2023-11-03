@@ -5,15 +5,17 @@
 
 🔭 I currently do volunteer research at [FINS](https://fins.institute.ufl.edu/) on Neurosymbolic AI
 
-🌱 I’m currently learning **Neurosymbolic AI applications**
+🌱 I’m currently learning about **Propositional Logic and Predicate Calculus**
 
 👨‍💻 Most of my projects are available below!
 
-💬 Ask me about **Brazil, Research, Explainable AI**
+💬 Ask me about **Hackathons, Research, Weighlifting**
 
 📫 How to reach me **mkunzlermaldaner@ufl.edu**
 
-⚡ Fun fact: **I have 1700 war stars in Clash of Clans** 🎼
+📗 Research Interests: Neurosymbolic AI, Artificial Brains, AGI, Adversarial ML
+
+⚔️ Fun fact: **I have 1700 war stars in Clash of Clans** ⭐
 
 
 # <img align="right" alt="cute-gif" width="80px" style="border-radius:4px" padding="2px" src=https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif>
