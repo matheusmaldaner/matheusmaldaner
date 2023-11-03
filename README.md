@@ -1,12 +1,13 @@
 <h1 align="center">Hi👋 I'm Matheus</h1>
 <h3 align="center">Aspiring Researcher | Machine Learning | Cybersecurity | High-level Math </h3>
-<img align="right" alt="Random worm" width="450" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
+
 
 🔭 I currently do volunteer research at [FINS](https://fins.institute.ufl.edu/) on Neurosymbolic AI
 
 🌱 I’m currently learning about **Propositional Logic and Predicate Calculus**
 
 💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
+<img align="right" alt="Random worm" width="400" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
 
 📫 How to reach me **mkunzlermaldaner@ufl.edu**
 
