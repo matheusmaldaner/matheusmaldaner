@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋 I'm Matheus Kunzler Maldaner</h1>
+<h1 align="center">Hi👋 I'm Matheus</h1>
 <h3 align="center">Aspiring Researcher | Machine Learning | Cybersecurity | High-level Math </h3>
-<img align="right" alt="Coding" width="350" style="border-radius:8px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Random worm" width="450" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
 
 🔭 I currently do volunteer research at [FINS](https://fins.institute.ufl.edu/) on Neurosymbolic AI
 
 🌱 I’m currently learning about **Propositional Logic and Predicate Calculus**
 
-👨‍💻 Most of my projects are available below!
-
-💬 Ask me about **Hackathons, Research, Weighlifting**
+💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
 
 📫 How to reach me **mkunzlermaldaner@ufl.edu**
 
 📗 Research Interests: Neurosymbolic AI, Artificial Brains, AGI, Adversarial ML
-
-🏙️ I want to live somewhere colder
 
 ⚔️ Fun fact: **I have 1700 war stars in Clash of Clans** ⭐
 
