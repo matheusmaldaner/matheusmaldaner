@@ -28,6 +28,6 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=m1del&theme=monokai-metallian&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=matheusmaldaner&theme=monokai-metallian&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" />
     </a>
 </div>
