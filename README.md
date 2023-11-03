@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning about **Propositional Logic and Predicate Calculus**
 
-<img align="right" alt="Random worm" width="300" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
+<img align="right" alt="Random worm" width="350" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
 
 💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
 
