@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 I'm Matheus</h1>
-<h3 align="center">Aspiring Researcher | Machine Learning | Cybersecurity | High-level Math </h3>
+<h3 align="center">Aspiring Researcher | Machine Learning | Cybersecurity | Mathematics </h3>
 
 🔭 I currently do volunteer research at [FINS](https://fins.institute.ufl.edu/) on Neurosymbolic AI
 
