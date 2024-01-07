@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi👋 I'm Matheus</h1>
-<h3 align="center">Aspiring Researcher | Machine Learning | Cybersecurity | Mathematics </h3>
+<h3 align="center">Researcher | Machine Learning | Artificial Intelligence | Mathematics </h3>
 
 🔭 I currently do volunteer research at [FINS](https://fins.institute.ufl.edu/) on Neurosymbolic AI
 
 <img align="right" alt="Random worm" width="350" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
 
-🌱 I’m currently learning about **Propositional Logic and Predicate Calculus**
+🌱 I’m currently learning about **Mind Uploading** and **Human Consciousness**
 
 💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
 
@@ -14,7 +14,7 @@
 
 📗 Research Interests: Neurosymbolic AI, Artificial Brains, AGI, Adversarial ML
 
-⚔️ Fun fact: **I have 1700 war stars in Clash of Clans** ⭐
+⚔️ Fun fact: **I am a TownHall 15 in Clash of Clans**⭐
 
 
 
