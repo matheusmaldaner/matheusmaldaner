@@ -10,11 +10,11 @@
 
 💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
 
-📫 How to reach me **mkunzlermaldaner@ufl.edu**
+📫 Reach me on **mkunzlermaldaner@ufl.edu**
 
 📗 Research Interests: Neurosymbolic AI, Artificial Brains, AGI, Adversarial ML
 
-⚔️ Fun fact: **I am a TownHall 15 in Clash of Clans**⭐
+⚔️ Fun fact: **I'm TownHall 15 in Clash of Clans** ⭐
 
 
 
