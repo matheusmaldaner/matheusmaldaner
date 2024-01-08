@@ -12,7 +12,7 @@
 
 📫 Reach me on **mkunzlermaldaner@ufl.edu**
 
-📗 Research Interests: Neurosymbolic AI, Artificial Brains, AGI, Adversarial ML
+📗 Research Interests: Neuro Symbolic AI, Artificial Brains, AGI, Adversarial ML
 
 ⚔️ Fun fact: **I'm TownHall 15 in Clash of Clans** ⭐
 
