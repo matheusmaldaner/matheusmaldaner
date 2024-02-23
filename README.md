@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi👋 I'm Matheus</h1>
+<h1 align="center">Matheus</h1>
 <h3 align="center">Researcher | Machine Learning | Artificial Intelligence | Mathematics </h3>
 
 🔭 I currently do research at [FINS](https://fins.institute.ufl.edu/) on Neuro Symbolic AI
