@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning about **Mind Uploading** and **Human Consciousness**
 
-💬 Ask me about **Hackathons, Research, Weighlifting, Brazil**
+💬 Ask me about **Hackathons, Research, Weightlifting, Brazil**
 
 📫 Reach me on **mkunzlermaldaner@ufl.edu**
 
