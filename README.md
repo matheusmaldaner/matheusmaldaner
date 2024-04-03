@@ -6,7 +6,7 @@
 
 <img align="right" alt="Random worm" width="350" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">
 
-🌱 I’m currently learning about **Mind Uploading** and **Human Consciousness**
+🌱 I’m currently learning about **Logic Tensor Networks** and **Explainable AI**
 
 💬 Ask me about **Hackathons, Research, Weightlifting, Brazil**
 
