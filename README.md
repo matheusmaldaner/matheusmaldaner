@@ -14,7 +14,7 @@
 
 📗 Research Interests: Neuro Symbolic AI, Artificial Brains, AGI, Adversarial ML
 
-⚔️ Fun fact: **I'm TownHall 15 in Clash of Clans** ⭐
+⭐ Fun fact: **I worked as a Sushi Chef for 2 years and I am a TownHall 16 in Clash of Clans** ⚔️
 
 
 
