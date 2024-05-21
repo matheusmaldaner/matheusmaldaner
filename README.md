@@ -10,7 +10,7 @@
 
 💬 Ask me about **Hackathons, Research, Weightlifting, Brazil**
 
-📫 Reach me on **mkunzlermaldaner@ufl.edu**
+📫 Reach me on **mkunzlermaldaner@ufl.edu** or through my [personal website](https://matheusmaldaner.github.io/)!
 
 📗 Research Interests: Neuro Symbolic AI, Artificial Brains, AGI, Adversarial ML
 
