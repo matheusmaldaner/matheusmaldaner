@@ -14,9 +14,9 @@
 
 📗 Research Interests: Neuro Symbolic AI, Artificial Brains, Explainable AI, Mind Uploading
 
-⭐ Fun fact: **I worked as a Sushi Chef for 2 years and I am TH16 in Clash of Clans** ⚔️
+🍣 Fun fact: **I worked as a Sushi Chef for 2 years and I am TH16 in Clash of Clans** ⚔️
 
-🔭 Check the University of Florida's [Data Science Club](https://discord.gg/KKebqFtmbb) where we host [workshops](https://github.com/matheusmaldaner/WorkshopArchive) in AI/ML related topics :) 
+⭐ Check the University of Florida's [Data Science Club](https://discord.gg/KKebqFtmbb) where we host [workshops](https://github.com/matheusmaldaner/WorkshopArchive) in AI/ML related topics :) 
 
 
  
