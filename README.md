@@ -12,7 +12,7 @@
 
 📫 Reach me on **mkunzlermaldaner@ufl.edu** or through my [personal website](https://matheusmaldaner.github.io/)!
 
-📗 Research Interests: Neuro Symbolic AI, Artificial Brains, Explainable AI, Mind Uploading
+📗 Research Interests: Neuro Symbolic AI, Artificial Brains, Explainable AI, Mind Uploading, Neuromorphic Computing
 
 🍣 Fun fact: **I worked as a Sushi Chef for 2 years and I am TH16 in Clash of Clans** ⚔️
 
