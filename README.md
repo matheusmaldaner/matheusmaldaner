@@ -2,7 +2,7 @@
 <h1 align="center">Matheus Kunzler Maldaner</h1>
 <h3 align="center">Researcher | Machine Learning | Artificial Intelligence | Mathematics </h3>
 
-🔭 I currently do research at [FINS](https://fins.institute.ufl.edu/) on Neuro Symbolic AI and at [CMU](https://hcii.cmu.edu/) on HCII over summer
+🔭 I currently do research at [FINS](https://fins.institute.ufl.edu/) on Neuro Symbolic AI and at [CMU](https://hcii.cmu.edu/) on HCI over summer
 
 [](<img align="right" alt="Random worm" width="350" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">)
 
