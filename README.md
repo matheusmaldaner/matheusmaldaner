@@ -8,8 +8,6 @@
 
 🌱 I’m currently learning about **Differentiable Logic Gates** and **Auditing Gen AI Models**
 
-💬 Ask me about **Hackathons, Research, Weightlifting, Brazil**
-
 📫 Reach me on **mkunzlermaldaner@ufl.edu** or through my [personal website](https://matheusmaldaner.github.io/)!
 
 📗 Research Interests: Neuro Symbolic AI, Artificial Brains, Explainable AI, Mind Uploading, Neuromorphic Computing
