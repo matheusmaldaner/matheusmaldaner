@@ -13,7 +13,7 @@
 
 🍣 Fun fact: **I worked as a Sushi Chef for 2 years and I am TH17 in Clash of Clans** ⚔️
 
-⭐ Check the University of Florida's [Data Science Club](https://discord.gg/KKebqFtmbb) where we host [workshops](https://github.com/matheusmaldaner/WorkshopArchive) in AI/ML related topics :) 
+⭐ I am also the President of the University of Florida's [Data Science Club](https://discord.gg/KKebqFtmbb) where we host [workshops](https://github.com/matheusmaldaner/WorkshopArchive) in AI/ML related topics :) 
 
 
  
