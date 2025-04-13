@@ -1,17 +1,17 @@
 
 <h1 align="center">Matheus Kunzler Maldaner</h1>
 
-🔭 I currently do research at [FINS](https://fins.institute.ufl.edu/) on Neuro Symbolic AI and at [CMU](https://hcii.cmu.edu/) on HCI on Auditing Generative AI. 
+🔭 I currently do research at [FINS](https://fins.institute.ufl.edu/) on Neuro Symbolic AI and at [CMU](https://hcii.cmu.edu/) on HCI on Auditing Generative AI models. 
 
 [](<img align="right" alt="Random worm" width="350" style="border-radius:8px" src="https://media.wired.com/photos/5b45021f3808c83da3503cc7/master/w_1600,c_limit/tumblr_inline_mjx5ioXh8l1qz4rgp.gif">)
 
-🌱 I’m currently learning about **Differentiable Logic Gates** and **Evolutionary Algorithms**
+🌱 I’m currently learning about **Integrated Circuits** and **AI Agents**
 
 📫 Reach me on **mkunzlermaldaner@ufl.edu** or through my [personal website](https://matheusmaldaner.github.io/)!
 
 📗 Research Interests: Neuro Symbolic AI, Artificial Brains, Explainable AI, Mind Uploading, Neuromorphic Computing
 
-🍣 Fun fact: **I worked as a Sushi Chef for 2 years and I am TH17 in Clash of Clans** ⚔️
+🍣 Fun fact: **I worked as a Sushi Chef for 2 years and I am a (non-rushed) TH17 in Clash of Clans** ⚔️
 
 ⭐ I am also the President of the University of Florida's [Data Science Club](https://discord.gg/KKebqFtmbb) where we host [workshops](https://github.com/matheusmaldaner/WorkshopArchive) in AI/ML related topics :) 
 
